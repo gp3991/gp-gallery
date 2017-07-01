@@ -1,0 +1,11 @@
+{
+  "name": "gp-gallery",
+  "version": "1.0.0",
+  "description": "Lightweight, responsive gallery",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
